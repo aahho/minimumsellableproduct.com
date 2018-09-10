@@ -1,2 +1,3 @@
-# minimumsellableproduct.com
-www minimumsellableproduct.com
+# Welcome to minimumsellableproduct.com
+
+coming soon.
